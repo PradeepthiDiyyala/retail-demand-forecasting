@@ -1,0 +1,17 @@
+{
+  "best_model": "hist_gradient_boosting",
+  "test_window_start": "2025-10-31 00:00:00",
+  "test_window_end": "2025-12-30 00:00:00",
+  "models": {
+    "random_forest": {
+      "mae": 64.0810404946801,
+      "rmse": 139.7008916180858,
+      "mape": 0.19896146653692912
+    },
+    "hist_gradient_boosting": {
+      "mae": 61.17505054951179,
+      "rmse": 129.40955765355392,
+      "mape": 0.19668653432264768
+    }
+  }
+}
